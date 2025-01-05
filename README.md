@@ -1,6 +1,6 @@
 # Bienvenidos a mi página web
 
-¡Hola! Este es un ejemplo de página web escrita en **Markdown**.
+¡Hola! Este es un ejemplo de página web escrita en **Markdown y Jenkyll**.
 
 ---
 
